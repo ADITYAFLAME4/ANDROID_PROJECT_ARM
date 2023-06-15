@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696670678558",
+    "firebase_url": "https://dhaaramshalaown-9df55-default-rtdb.firebaseio.com",
+    "project_id": "dhaaramshalaown-9df55",
+    "storage_bucket": "dhaaramshalaown-9df55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696670678558:android:e3ce5fc01663aa1b14080f",
+        "android_client_info": {
+          "package_name": "com.example.dhaaramshalaown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696670678558-st58ehp21b7457pmo3fcipoaorhsbmma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-30Ma-28YnRVn-vb41yo0nr7tpok2hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696670678558-st58ehp21b7457pmo3fcipoaorhsbmma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
